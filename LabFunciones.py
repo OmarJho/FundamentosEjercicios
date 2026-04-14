@@ -1,8 +1,3 @@
-# ============================================================
-#  FUNDAMENTOS DE PROGRAMACIÓN - TEMA N°2
-#  Modularidad en la Programación: Funciones en Python
-# ============================================================
-
 # ── ETAPA 2: Funciones simples ───────────────────────────────
 
 def saludar(nombre):
